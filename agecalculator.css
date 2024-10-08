@@ -1,0 +1,27 @@
+body {
+  background-color: #ccc;
+}
+.agecalculator {
+  width: 60%;
+  height: 60vh;
+  background-color: white;
+  padding: 15px;
+  text-align: center;
+  margin: auto;
+}
+input {
+  width: 30%;
+  padding: 10px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  font-size: x-large;
+  cursor: pointer;
+}
+button {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 10px;
+  background-color: skyblue;
+  cursor: pointer;
+}
